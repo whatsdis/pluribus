@@ -1,6 +1,6 @@
 # Pluribus
 
-Implementation of Pluribus, a Superhuman AI for 6-MAX No-Limit Holdem Poker Bot based on Supplementary Material https://science.sciencemag.org/highwire/filestream/728919/field_highwire_adjunct_files/0/aay2400-Brown-SM.pdf from the pape, "Superhuman AI for multiplayer poker" by Noam Brown and Tuomas Sandholm
+Implementation of Pluribus, a Superhuman AI for 6-MAX No-Limit Holdem Poker Bot based on Supplementary Material https://science.sciencemag.org/highwire/filestream/728919/field_highwire_adjunct_files/0/aay2400-Brown-SM.pdf from the paper, "Superhuman AI for multiplayer poker" by Noam Brown and Tuomas Sandholm
 
 # Rationale 
 
