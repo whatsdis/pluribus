@@ -1,10 +1,6 @@
 # Pluribus
 
-Implementation of Pluribus, a Superhuman AI for 6-MAX No-Limit Holdem Poker Bot based on Supplementary Material https://science.sciencemag.org/highwire/filestream/728919/field_highwire_adjunct_files/0/aay2400-Brown-SM.pdf from the paper, "Superhuman AI for multiplayer poker" by Noam Brown and Tuomas Sandholm
-
-# Rationale 
-
-In the AMA, the authors refused to release the original source code citing moral concerns. I believe such self-censorship itself is immoral and hence this endeavour to as closely possible emulate the original Pluribus using the Supplementary Material which contains the pseudocode.  
+Implementation of Pluribus, a Superhuman AI for 6-MAX No-Limit Holdem Poker Bot based on Supplementary Material https://science.sciencemag.org/highwire/filestream/728919/field_highwire_adjunct_files/0/aay2400-Brown-SM.pdf from the paper, "Superhuman AI for multiplayer poker" by Noam Brown and Tuomas Sandholm 
 
 # Goal 
 
@@ -15,6 +11,17 @@ I am interested in Bodog.eu for the time being because of its HTML5 Client acces
   2. Parser: Computer vision to parse screenshots of Bodog.eu game for the purpose of extracting current game state.
   
   3. Client: Chrome Extension which upon click will upload the game screenshot to be parsed and solved.
+  
+  
+ ## 1. Solver (wIP)
+ 
+ The code is a port of @EAT-CODE-KITE-REPEAT's javascript implementation. For Python, I decided to use the Deuces library, however, it has not been tested. 
+ 
+ ## 2. Parser (WIP):
+ 
+ Seems like Bodog.eu uses an HTML5 renderer so will not require any computer vision. 
+ 
+ ## 3. Client (WIP)
   
  
 
